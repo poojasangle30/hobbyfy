@@ -1,0 +1,41 @@
+.buyItems {
+  font-family: "Inter";
+
+  background: #f2f2f2;
+}
+
+.buyItems__col_adjustment {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.buyItems_card_style {
+  width: 327px;
+
+  height: 300px;
+
+  left: 5px;
+
+  background: #ffffff;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border-radius: 24px;
+  transition: transform 100ms ease-in;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.buyItems_card_style:hover {
+  transform: scale(1.07);
+}
+
+.buyItems_cardImage {
+  width: 194px;
+  height: 137px;
+
+  border-radius: 30px;
+}

@@ -1,0 +1,27 @@
+.image_payment {
+  width: 423px;
+
+  height: 429px;
+}
+
+.payment_exp_date {
+  width: 50% !important;
+}
+
+.payment__margin_bottom {
+  margin-bottom: 0;
+}
+
+.payment_card__style {
+  width: 551px;
+
+  height: 480px;
+  bottom: 1vh;
+  /* top: 211px; */
+
+  background: #ffffff;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border-radius: 24px;
+}

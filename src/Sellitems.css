@@ -1,0 +1,45 @@
+.sellItems {
+  font-family: "Inter";
+
+  background: #f2f2f2;
+}
+
+.sellItemsUploadImg {
+  width: 422px;
+  height: 292px;
+  background: #c4c4c4;
+  border-radius: 30px;
+}
+
+.sellItems__card__style {
+  width: 616px;
+  height: 390px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 24px;
+}
+
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 2em !important;
+  height: 2em !important;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.sellItems__prod_desc {
+  width: 585px;
+  height: 115px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.sellItems__margin_bottom {
+  margin-bottom: 150px;
+}

@@ -1,0 +1,58 @@
+.discover {
+  font-family: "Inter";
+  background: #f2f2f2;
+}
+
+.discover__card__style {
+  width: 616px;
+
+  height: 157px;
+
+  background: #ffffff;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border-radius: 24px;
+}
+
+.discover_img {
+  width: 210px;
+
+  height: 157px;
+
+  border-radius: 30px;
+}
+
+.discover__createPost {
+  width: 525px;
+  height: 380px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 24px;
+}
+
+.discover_input_addTitle {
+  width: 150px !important;
+  height: 47px;
+
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 24px !important;
+}
+
+.discover__textArea {
+  width: 395px;
+  height: 85px;
+  background: #ffffff;
+  /* border: 1px solid #000000; */
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 24px;
+}
+
+.discover__user_img {
+  width: 50px;
+  height: 40px;
+  border-radius: 10px;
+}

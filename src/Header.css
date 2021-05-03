@@ -1,0 +1,35 @@
+.header__logo {
+  align-items: left;
+}
+
+.navbar {
+  width: -webkit-fill-available;
+}
+
+.nav > li > a {
+  font-size: 16px;
+}
+
+.nav > li > a:hover {
+  text-decoration: blink;
+  background-color: inherit !important;
+  color: #f9a826;
+}
+
+.dropdown-menu > li > a:hover {
+}
+
+.header__left {
+  font-family: Inter !important;
+  font-style: normal !important;
+  font-weight: bold !important;
+  font-size: 36px !important;
+  /* line-height: 44px !important;  */
+  /* identical to box height */
+
+  color: #ffa500;
+}
+
+.logo {
+  color: black;
+}

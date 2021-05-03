@@ -1,0 +1,49 @@
+.buyItemDetails {
+  font-family: "Inter";
+
+  background: #f2f2f2;
+}
+
+.buyItemDetails__card__style {
+  width: 698px;
+
+  height: 550px;
+
+  margin-bottom: 10px;
+
+  background: #ffffff;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border-radius: 24px !important;
+}
+
+.buyItemDetails__image {
+  width: 698px;
+
+  height: 300px;
+
+  /* left: 128px; */
+
+  top: 279px;
+
+  border-radius: 24px;
+}
+
+.buyItemDetails_shoppingCart {
+  width: 327px;
+
+  height: 550px;
+
+  left: 5px;
+
+  background: #ffffff;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+  border-radius: 5px;
+}
+
+.buyItemDetails_input_type {
+  width: 40px;
+}

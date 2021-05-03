@@ -1,0 +1,53 @@
+.app {
+  background: #f2f2f2;
+}
+
+div {
+  color: #555555;
+}
+
+.body {
+  font-family: Inter;
+}
+
+.hobbyfy__button_view {
+  width: 60px;
+  height: 37px;
+  background: #ffffff;
+  border: 2px solid #f9a826;
+  box-sizing: border-box;
+  border-radius: 30px;
+  color: black;
+}
+
+.hobbyfy__button_view:hover {
+  background: #fcefe3;
+}
+
+.hobbyfy__button_viewDetails {
+  width: 103px;
+  height: 37px;
+  background: #ffffff;
+  border: 2px solid #f9a826;
+  box-sizing: border-box;
+  border-radius: 30px;
+  color: black;
+}
+
+.hobbyfy__button_viewDetails:hover {
+  background: #fcefe3;
+}
+
+.hobbyfy__button_selectCategory {
+  width: 135px;
+  height: 37px;
+  background: #ffffff;
+  border: 2px solid #f9a826;
+  box-sizing: border-box;
+  border-radius: 30px;
+  color: black;
+}
+
+.hobbyfy__button_selectCategory:hover {
+  background: #fcefe3;
+}
